@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "63bd0e02-30cd-4013-9b10-931ab139f6af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "安卓五子棋局域网对战源码-白色(white)_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "87e720d0-da79-480c-908c-556888c61320",
+      "rawTextureUuid": "63bd0e02-30cd-4013-9b10-931ab139f6af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 36,
+      "height": 36,
+      "rawWidth": 36,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

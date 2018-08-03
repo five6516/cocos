@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4a10692a-5047-414a-ac0d-4a05de298a14",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "android智能五子棋源码-图标(icon)_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "8a66ed18-7ae8-4ff6-b9f9-520b5fee72e8",
+      "rawTextureUuid": "4a10692a-5047-414a-ac0d-4a05de298a14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 10,
+      "trimY": 11,
+      "width": 155,
+      "height": 155,
+      "rawWidth": 175,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

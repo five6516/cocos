@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TwoNaoZi",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "19a427d5-14c1-4d9d-9ca1-a4b9404e46b3",
+  "title": "TwoNaoZi",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "landscape"
+  },
+  "xxteaKey": "a486ae87-3009-45",
+  "zipCompressJs": true
+}
