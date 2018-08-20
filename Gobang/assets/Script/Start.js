@@ -31,13 +31,16 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {},
+    onLoad () {
+        cc.director.preloadScene("Main");
+    },
 
     start () {
     },
 
     LoadMainScene:function(){
     	cc.director.loadScene("Main");
+        //Alert.show("难道还有这种操作？", null, false, 0.1);
     },
 
     // update (dt) {},

@@ -87,8 +87,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 640,
-      "height": 960
+      "width": 800,
+      "height": 1200
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -96,8 +96,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 320,
-      "y": 480
+      "x": 400,
+      "y": 600
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -226,14 +226,16 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_actualFontSize": 40,
+    "_actualFontSize": 20,
     "_fontSize": 20,
     "_lineHeight": 40,
     "_enableWrapText": false,
-    "_N$file": null,
-    "_isSystemFontUsed": true,
+    "_N$file": {
+      "__uuid__": "5b9cbc23-76b3-41ff-9953-4219fdbea72c"
+    },
+    "_isSystemFontUsed": false,
     "_spacingX": 0,
-    "_N$string": "button",
+    "_N$string": "Start",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
@@ -352,8 +354,8 @@
     "_enabled": true,
     "_designResolution": {
       "__type__": "cc.Size",
-      "width": 640,
-      "height": 960
+      "width": 800,
+      "height": 1200
     },
     "_fitWidth": false,
     "_fitHeight": true
