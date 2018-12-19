@@ -1,4 +1,12 @@
 {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
   "appKey": "",
   "appSecret": "",
   "encryptJs": true,
@@ -25,7 +33,7 @@
     "REMOTE_SERVER_ROOT": "",
     "orientation": "portrait"
   },
-  "startScene": "1de32480-0213-40a9-acab-77a7c4b06977",
+  "startScene": "3932eb54-fe3a-4793-a27a-79579ad951f2",
   "title": "paopaoqiu",
   "webOrientation": "portrait",
   "wechatgame": {
